@@ -8,8 +8,8 @@ TODO cosas para hacer:
 
 - Mostrarlos en un listView inicialmente
 
-Ideas nuevas
-===============
+Ideas locas para implementar
+=============================
 
-aca vos aportas ;)
+Aca vos aportas ;)
 
