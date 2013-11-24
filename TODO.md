@@ -26,3 +26,4 @@ Aca `*vos*` aportas ;)
 
 - Avisar al usuario x minutos antes, que tiene una clase próximamente, informando nombre de materia, horario, salón
   y datos extra dados por el user.
+- Codigos QR impresos en cada salon para escanear con el celular y la aplicacion te de info sobre horarios ocupados de ese salon y salones cercanos que esten libres
