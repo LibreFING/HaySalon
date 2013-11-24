@@ -13,12 +13,12 @@ Para contribuir:
    git push
  ```
  
-Para mas aprender mas de como colaborar
+Para aprender mas de como colaborar
 - Usar Git:  http://try.github.io/levels/1/challenges/1
 - Entorno Android: http://developer.android.com/sdk/index.html
 - Documentacion:  http://developer.android.com/training/index.html
-```
-- ¿Aportaste? comentalo acá: 
+
+=================
+ **¿Aportaste?** Comentalo acá: 
 https://groups.google.com/forum/#!forum/librefing
-```
   
