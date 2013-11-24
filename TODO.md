@@ -11,5 +11,5 @@ TODO cosas para hacer:
 Ideas locas para implementar
 =============================
 
-Aca vos aportas ;)
+Aca `*vos*` aportas ;)
 
