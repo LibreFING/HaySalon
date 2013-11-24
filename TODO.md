@@ -24,3 +24,5 @@ Ideas locas para implementar
 
 Aca `*vos*` aportas ;)
 
+- Avisar al usuario x minutos antes, que tiene una clase próximamente, informando nombre de materia, horario, salón
+  y datos extra dados por el user.
