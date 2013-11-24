@@ -1,7 +1,7 @@
 HaySalon
 =========
 
-App para averiguar si hay salones libres en la FING. Tomando datos del plan inicial de bedelias.
+Aplicacion android para consultar si hay salones libres en la FING. Tomando datos del plan inicial de bedelias.
 
 Para contribuir:
 =================
