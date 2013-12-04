@@ -11,7 +11,7 @@ TODO cosas para hacer:
     - http://www.fing.edu.uy/sites/default/files/2013/7202/informe-v1.1.pdf
 
   - Forma 2: Obtener los datos del pdf
-    - Info sobre OCR de tablas en PDF's: 
+    - Info sobre OCR de tablas en PDF's: `leer links`
       - http://stackoverflow.com/questions/6173439/can-ocr-software-reliably-read-values-from-a-table
       - http://stackoverflow.com/a/14419669/1710845 
       - PDFMiner (utilidad de python): http://www.unixuser.org/~euske/python/pdfminer/
